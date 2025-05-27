@@ -1,4 +1,4 @@
-##A TM Machine
+## ATM Machine
 
 Este projeto é uma simulação em **Java** de um **caixa eletrônico (ATM Machine)**.  
 Foi desenvolvido para fins de **estudo** e **prática de lógica de programação** e **manipulação de fluxo de caixa**.
