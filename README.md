@@ -1,4 +1,4 @@
-🏧 ATM Machine Simulation
+# 🏧 ATM Machine Simulation
 
 Este projeto é uma simulação de uma máquina ATM (caixa eletrônico), desenvolvido para fins de estudo e prática de lógica de programação e manipulação de fluxo de caixa.
 
@@ -28,7 +28,7 @@ Navegue até a pasta do projeto:
 cd ATM-Machine-Project
 ```
 
-Execute o arquivo principal (exemplos):
+Execute o arquivo principal:
 ```bash
 
 java ATM
