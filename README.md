@@ -1,15 +1,127 @@
-## ATM Machine 
+# 🏧 ATM Machine Simulation
 
-Este projeto é uma simulação em **Java** de um **caixa eletrônico (ATM Machine)**.  
-Foi desenvolvido para fins de **estudo** e **prática de lógica de programação** e **manipulação de fluxo de caixa**.
+Este projeto é uma simulação de uma máquina ATM (caixa eletrônico), desenvolvido para fins de estudo e prática de lógica de programação e manipulação de fluxo de caixa.
 
-## Funcionalidades
+A aplicação permite operações básicas como consulta de saldo, saque, depósito e encerramento da conta, reproduzindo as principais funcionalidades de um caixa eletrônico.
 
-- Consultar saldo
-- Realizar saque
-- Realizar depósito
--  Visualizar extrato
+## ✅ Funcionalidades:
+✔️ Consulta de saldo  
+✔️ Realização de saques  
+✔️ Realização de depósitos  
+✔️ Encerramento de conta  
+✔️ Validação de entrada e tratamento de erros  
+✔️ Interface interativa via terminal/console  
 
-## Pré-requisitos
+## 🛠️ Tecnologias Utilizadas:
+- **Linguagem:** Java
+- **Ambiente:** VSCode  
+- **Controle de versão:** Git e GitHub  
 
-- java version **"21.0.6"** ou superior
+## 🚀 Como Executar o Projeto:
+Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+
+Navegue até a pasta do projeto:
+```bash
+cd nome-do-repositorio
+```
+
+Execute o arquivo principal (exemplos):
+```bash
+# Para Python
+python atm.py
+
+# Para Java
+java ATM
+
+# Para C#
+dotnet run
+```
+
+## 💡 Objetivo do Projeto:
+O projeto foi desenvolvido com o objetivo de:
+- Praticar estruturas condicionais e laços de repetição  
+- Aplicar conceitos de manipulação de dados  
+- Simular cenários reais de fluxo bancário  
+
+## 📄 Exemplo de Uso:
+```
+Bem-vindo à ATM!
+1. Consultar saldo
+2. Realizar saque
+3. Realizar depósito
+4. Encerrar conta
+Escolha a opção desejada:
+```
+
+## 🤝 Contribuições:
+Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, sugestões ou correções!
+
+## 📝 Licença:
+Este projeto está sob a licença MIT — consulte o arquivo LICENSE para mais detalhes.
+
+## 🙋‍♀️ Desenvolvido por:
+Maria Clara Gomes  
+📧 gclara_@hotmail.com  
+🔗 [GitHub](# 🏧 ATM Machine Simulation
+
+Este projeto é uma simulação de uma máquina ATM (caixa eletrônico), desenvolvido para fins de estudo e prática de lógica de programação e manipulação de fluxo de caixa.
+
+A aplicação permite operações básicas como consulta de saldo, saque, depósito e encerramento da conta, reproduzindo as principais funcionalidades de um caixa eletrônico.
+
+## ✅ Funcionalidades:
+✔️ Consulta de saldo  
+✔️ Realização de saques  
+✔️ Realização de depósitos  
+✔️ Encerramento de conta  
+✔️ Validação de entrada e tratamento de erros  
+✔️ Interface interativa via terminal/console  
+
+## 🛠️ Tecnologias Utilizadas:
+- **Linguagem:** [Coloque aqui: Python, Java, C#, etc.]  
+- **Ambiente:** VSCode  
+- **Controle de versão:** Git e GitHub  
+
+## 🚀 Como Executar o Projeto:
+Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+
+Navegue até a pasta do projeto:
+```bash
+cd ATM-Machine-Project
+```
+
+Execute o arquivo principal (exemplos):
+```bash
+
+java ATM
+
+```
+
+## 💡 Objetivo do Projeto:
+O projeto foi desenvolvido com o objetivo de:
+- Praticar estruturas condicionais e laços de repetição  
+- Aplicar conceitos de manipulação de dados  
+- Simular cenários reais de fluxo bancário  
+
+## 📄 Exemplo de Uso:
+```
+Bem-vindo à ATM!
+1. Consultar saldo
+2. Realizar saque
+3. Realizar depósito
+4. Encerrar conta
+Escolha a opção desejada:
+```
+
+## 🤝 Contribuições:
+Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias, sugestões ou correções!
+
+## 🙋‍♀️ Desenvolvido por:
+Maria Clara Gomes  
+🔗 [GitHub](https://github.com/gomesmc)
+)
